@@ -1,6 +1,6 @@
 <img align="center" alt="Coding" width="1000" src="https://c4.wallpaperflare.com/wallpaper/487/712/921/pixel-art-sun-building-sunset-wallpaper-preview.jpg">
 <h1 align="center">Hi 👋, I'm Guilherme</h1>
-<h3 align="center">A passionate fullstack developer from Brasil</h3>
+<h3 align="center">A passionate developer from Brasil</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f8/8c/72/f88c72972b8c4648bc4144c055eefcaf.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dantexd8&label=Profile%20views&color=0e75b6&style=flat" alt="dantexd8" /> </p>
